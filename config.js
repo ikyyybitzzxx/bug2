@@ -46,11 +46,11 @@ global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons==========//
 global.dtu = '𝑭𝒐𝒍𝒍𝒐𝒘'
-global.urlnya = "https://www.instagram.com/the.sad.boy01"
+global.urlnya = "https://www.instagram.com/this.seira"
 
 //============= callButtons ============//
 global.dtc = '𝒄𝒂𝒍𝒍 𝒐𝒘𝒏𝒆𝒓'
-global.phn = '+62 895-3362-82144'
+global.phn = '+62 859-2248-0867'
 
 //========== Tampilan Bot =============//
 global.sa = '╭─'
@@ -64,11 +64,11 @@ global.zt = '*'
 global.zc = ''
 
 global.thumbnailUrl = [
-  'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
-  'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg', 'https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
-  'https://telegra.ph/file/7d6c0e35f9c8f52715541.jpg', 'https://telegra.ph/file/ef4b742d47e6a9115e2ff.jpg',
-  'https://telegra.ph/file/55e5af5f33fbd57104187.jpg', 'https://telegra.ph/file/af236598456b95884bd15.jpg',
-  'https://telegra.ph/file/de92ed4a729887ffc974c.jpg', 'https://telegra.ph/file/00ce42a193b1dbbf907d4.jpg'
+  'https://telegra.ph/file/0e5e473a741c902a0369e.jpg', 'https://telegra.ph/file/0e5e473a741c902a0369e.jpg',
+  'https://telegra.ph/file/0e5e473a741c902a0369e.jpg', 'https://telegra.ph/file/0e5e473a741c902a0369e.jpg',
+  'https://telegra.ph/file/0e5e473a741c902a0369e.jpg', 'https://telegra.ph/file/0e5e473a741c902a0369e.jpg',
+  'https://telegra.ph/file/0e5e473a741c902a0369e.jpg', 'https://telegra.ph/file/0e5e473a741c902a0369e.jpg',
+  'https://telegra.ph/file/0e5e473a741c902a0369e.jpg', 'https://telegra.ph/file/0e5e473a741c902a0369e.jpg'
 ]
 
 //============= Games ================//
